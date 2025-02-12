@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Mobile  App</string>
+    <string name="todo">TODO</string>
+    <string name="let_s_go">Let\'s Go!</string>
+    <string name="button">Button</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="name">Name</string>
+    <string name="john_kristina">John Kristina</string>
+    <string name="music">Music</string>
+</resources>
